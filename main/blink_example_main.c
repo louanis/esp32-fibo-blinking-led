@@ -100,7 +100,7 @@ void app_main(void)
 
 
     /* Configure the peripheral according to the LED type */
-    configure_led();
+    //configure_led();
 
     /*DECLARATION DU TABLEAU EN C
     (il n'etait pas précisé si ça devait être fait en assembleur)*/
