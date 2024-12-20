@@ -26,7 +26,7 @@ button:
 
     li t0, 0x6000403c          
     lw t1, 0(t0)                 
-    andi t1, t1, 8 #on met tout les pin qui ne sont pas GPIO8 a 0 avec un masque
+    andi t1, t1, 8 #on met tout les pin qui ne sont pas GPIO3 a 0 avec un masque
 
 
                 
